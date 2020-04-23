@@ -11,7 +11,7 @@ email: your-Annmayli@*gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  loading...
 
-baseurl: "/cards" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://webjeda.com" # the base hostname & protocol for your site
 
 #sidebar
